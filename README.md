@@ -69,5 +69,5 @@ The model is trained to classify plant diseases from leaf images and provides:
 
 ## Author
 
-Daya Sagar
+Daya Sagar Mudgal
 Electronics Engineering Student | Data Science Enthusiast
